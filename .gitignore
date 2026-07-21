@@ -1,0 +1,10 @@
+# Local reference material and hardware assets (keep locally, do not upload)
+/carbon_board/
+/firmware/
+/images/
+/3rd_party.zip
+/purchase_list.xlsx
+/readme.md
+/readme.pdf
+/readme_en.md
+/readme_en.pdf
